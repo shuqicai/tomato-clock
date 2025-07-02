@@ -12,5 +12,6 @@ function getPlugins() {
 }
 
 export default defineConfig({
+  base: '/tomato-clock/',   
   plugins: getPlugins(),
 });
