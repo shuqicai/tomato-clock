@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://shuqicai.github.io/tomato-clock"
+  "homepage": "https://shuqicai.github.io/tomato-clock",
   "scripts": {
     "deploy": "gh-pages -d dist/static",
     "dev:client": "vite --host --port 3000",
